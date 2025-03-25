@@ -1,0 +1,28 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.LoginModel
+@{
+}
+
+
+<form method="post" novalidate>
+    <div class="mb-3">
+        <label asp-for="loginDTO.Username" class="form-label">Username</label>
+        <span asp-validation-for="loginDTO.Username"></span>
+        <input asp-for="loginDTO.Username" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="loginDTO.Password" class="form-label">Password</label>
+        <span asp-validation-for="loginDTO.Password"></span>
+        <input asp-for="loginDTO.Password" class="form-control">
+    </div>
+        <div class="mb-3 form-check">
+            <input asp-for="loginDTO.IsRememberMe" type="checkbox" class="form-check-input">
+            <label class="form-check-label" asp-for="loginDTO.IsRememberMe">Remember me</label>
+        </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

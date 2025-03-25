@@ -1,0 +1,127 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.CartModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/CouponStyle.css" />
+
+
+<div class="coupon">
+
+
+    @foreach (var Coupon in Model.CouponList)
+    {
+
+
+        <div class="container">
+            <h2><b>@Coupon.Name</b></h2>
+        </div>
+
+        <div class="containerCoupon" style="background-color:white">
+
+            <h2>
+                Expiration date : @Coupon.ExpirationDate
+
+            </h2>
+        </div>
+
+        <div class="containerCoupon">
+
+
+            <form asp-page-handler="ChooseDiscount" method="post">
+                <input type="hidden" name="DiscountId" value="@Coupon.Id" />
+                <input type="hidden" name="DiscountType" value="@Coupon.DiscountType" />
+                <button type="submit" class="DiscountButton" data-CouponType="@Coupon.Id">Select this Coupon</button>
+            </form>
+
+            <hr>
+        </div>
+
+    }
+
+</div>
+
+
+<div class="flex-container">
+    @foreach (var product in Model.cartproducts)
+    {
+        <div class="Item">
+         
+            <p><b>Product name</b> @product.ProductName</p>
+            <p><b>Price</b>€ @product.Price</p>
+            <p><b>Type</b> @product.TypeOfItem</p>
+            <p><b>Amount in stock</b> @product.AmountInStock</p>
+            <p><b>Your amount</b> @product.Quantity</p>
+            <img src="@product.Image" width="80" height="100" />
+
+            <input type="hidden" name="productid" value="@product.ProductID" />
+            <button type="button" class="more-info-button" data-productid="@product.ProductID">More info</button>
+            <form asp-page-handler="RemoveProduct" method="post">
+                <!-- Use separate form for each product -->
+                <input type="hidden" name="productId" value="@product.ProductID" />
+                <button type="submit" class="remove-product">Remove from cart</button>
+            </form>
+            <br /><br />
+        </div>
+    }
+    @foreach (var workshop in Model.cartworkshops)
+    {
+        <div class="Item">
+            @* <p>@workshop.WorkshopId</p> *@
+            <p><b>Workshop name</b> @workshop.WorkshopName</p>
+            <p><b>Price</b>€ @workshop.Price</p>
+            <p><b>Type</b> @workshop.TypeOfItem</p>
+            <p><b>Location</b> @workshop.Location</p>
+            <p><b>Amount of places left</b> @workshop.AmountOfPlaces</p>
+            <p> <b>Your amount</b> @workshop.Quantity</p>
+            <img src="@workshop.Image" width="80" height="100" />
+
+            <input type="hidden" name="workshopid" value="@workshop.WorkshopId" />
+            <button type="button" class="more-info-button" data-productid="@workshop.WorkshopId">More info</button>
+
+            <form asp-page-handler="RemoveWorkshop" method="post">
+                <input type="hidden" name="workshopId" value="@workshop.WorkshopId" />
+                <button type="submit" class="remove-workshop">Remove from cart</button>
+            </form>
+        </div>
+       
+    }
+</div>
+
+
+<h2>
+    total amount in cart :<br> € @ViewData["DisplayCartTotal"]
+</h2>
+@if (TempData["DisplayTotalAfterCoupon"] != null)
+{
+    <h2><p>Total Discount coupon : €@TempData["DisplayTotalAfterCoupon"]</p></h2>
+
+}
+
+<div class="Checkout">
+    <form asp-page-handler="Checkout" method="post">
+        <!-- Use separate form for each workshop -->
+
+        <button type="submit" class="checkout">Check out</button>
+    </form>
+</div>
+
+<script>
+
+        document.querySelectorAll('.more-info-button').forEach(button => {
+            button.addEventListener('click', function () {
+                // Get the product or workshop ID and the type linked with this button
+                let itemId = this.parentElement.querySelector('[name="productid"]')?.value || this.parentElement.querySelector('[name="workshopid"]')?.value;
+                let type = this.parentElement.querySelector('[name="productid"]') ? 'product' : 'workshop';
+
+                // Check if itemId is valid
+                if (itemId) {
+                    let url = `/${type}?id=${itemId}`; // Generate the URL based on the item type and ID
+                    window.location.href = url;  // Redirect the user to the generated URL
+                } else {
+                    console.error("Item ID not found for type:", type);
+                }
+            });
+        });
+
+</script>

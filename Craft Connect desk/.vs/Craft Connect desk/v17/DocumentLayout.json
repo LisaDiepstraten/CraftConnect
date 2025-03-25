@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\models\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\models\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\mockdatarepo\\mockaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\mockdatarepo\\mockaccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\itemservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\itemservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\discountgivertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\discountgivertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\couponservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\couponservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\cartservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\cartservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\unittest\\accountservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A828768-DF22-4390-8FD5-54D5332029CF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\accountservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\interfaces\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\discountsystem\\customdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\discountsystem\\customdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\discountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\discountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\discountgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\discountgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\models\\discountsystem\\supportingmultiplebussdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\models\\discountsystem\\supportingmultiplebussdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\web application craft connect\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A50EA1-0803-4154-9724-99B9EE957BBA}|Web application Craft Connect\\WebApplicationCraftConnect.csproj|solutionrelative:web application craft connect\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|c:\\sources\\semester2\\individual assignment\\craft-connect-project\\craft connect desk\\businesslayer\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3983F7D5-326A-43A6-8FDF-74588C2199C4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\User.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\User.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\User.cs",
+              "ViewState": "AQIAABsAAACAmZmZmbk0wC4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:40:51.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignupDTO.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\SignupDTO.cs",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Models\\SignupDTO.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\SignupDTO.cs",
+              "RelativeToolTip": "Web application Craft Connect\\Models\\SignupDTO.cs",
+              "ViewState": "AQIAAAAAAADgZmZmZiYwwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:39:58.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Pages\\Signup.cshtml",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Signup.cshtml",
+              "RelativeToolTip": "Web application Craft Connect\\Pages\\Signup.cshtml",
+              "ViewState": "AQIAAB4AAAAAJQAAAAABwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:39:21.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Models\\UserCredentials.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\UserCredentials.cs",
+              "RelativeToolTip": "Web application Craft Connect\\Models\\UserCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:38:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "Web application Craft Connect\\Models\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:38:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Web application Craft Connect\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T10:38:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\Admin.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\Admin.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAZ2ZmZmYEwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:34:21.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MockAccountRepo.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\MockDataRepo\\MockAccountRepo.cs",
+              "RelativeDocumentMoniker": "UnitTest\\MockDataRepo\\MockAccountRepo.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\MockDataRepo\\MockAccountRepo.cs",
+              "RelativeToolTip": "UnitTest\\MockDataRepo\\MockAccountRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:30:46.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemServiceTest.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\ItemServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\ItemServiceTest.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\ItemServiceTest.cs",
+              "RelativeToolTip": "UnitTest\\ItemServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:30:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CouponServiceTest.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\CouponServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\CouponServiceTest.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\CouponServiceTest.cs",
+              "RelativeToolTip": "UnitTest\\CouponServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:30:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartServiceTest.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\CartServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\CartServiceTest.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\CartServiceTest.cs",
+              "RelativeToolTip": "UnitTest\\CartServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:30:29.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountServiceTest.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\AccountServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\AccountServiceTest.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\AccountServiceTest.cs",
+              "RelativeToolTip": "UnitTest\\AccountServiceTest.cs",
+              "ViewState": "AQIAAAIAAAAAzczMzMwHwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:30:25.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web application Craft Connect\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T09:21:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:38:14.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CartService.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\CartService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CartService.cs",
+              "ViewState": "AQIAAA4AAAAANTMzMzP5vxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:37:20.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Interfaces\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\ICouponRepository.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Interfaces\\ICouponRepository.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\ICouponRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:37:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomDiscount.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountSystem\\CustomDiscount.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\DiscountSystem\\CustomDiscount.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountSystem\\CustomDiscount.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\DiscountSystem\\CustomDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:51:30.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupportingMultipleBussDiscount.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountSystem\\SupportingMultipleBussDiscount.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\DiscountSystem\\SupportingMultipleBussDiscount.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountSystem\\SupportingMultipleBussDiscount.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\DiscountSystem\\SupportingMultipleBussDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:47:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Web application Craft Connect\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\Web application Craft Connect\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "Web application Craft Connect\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAABMAAACA0MzMzMwQwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:46:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiscountGiver.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountGiver.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\DiscountGiver.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountGiver.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\DiscountGiver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:45:30.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DiscountFactory.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountFactory.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Models\\DiscountFactory.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Models\\DiscountFactory.cs",
+              "RelativeToolTip": "BusinessLayer\\Models\\DiscountFactory.cs",
+              "ViewState": "AQIAAAEAAAD4oJmZmZkewBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:53:28.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\AccountService.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\AccountService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\AccountService.cs",
+              "ViewState": "AQIAADIAAAAAzczMzEwlwOUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:42:25.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ItemService.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\ItemService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ItemService.cs",
+              "ViewState": "AQIAACMAAADAzczMzMwiwB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:40:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CouponService.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\BusinessLayer\\Services\\CouponService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:02:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiscountGiverTest.cs",
+              "DocumentMoniker": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\DiscountGiverTest.cs",
+              "RelativeDocumentMoniker": "UnitTest\\DiscountGiverTest.cs",
+              "ToolTip": "C:\\sources\\semester2\\Individual assignment\\craft-connect-project\\Craft Connect desk\\UnitTest\\DiscountGiverTest.cs",
+              "RelativeToolTip": "UnitTest\\DiscountGiverTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:54:25.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

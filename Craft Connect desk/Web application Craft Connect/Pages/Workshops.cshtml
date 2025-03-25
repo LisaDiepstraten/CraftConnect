@@ -1,0 +1,62 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.WorkshopsModel
+@{
+}
+
+
+<link rel="stylesheet" href="~/css/WorkshopStyle.css" asp-append-version="true" />
+
+
+<div class="flex-container">
+    @foreach (var workshop in Model.workshops)
+    {
+        <div class="Item">
+            @* <p>@workshop.WorkshopId</p> *@
+            <p><b>Workshop name</b> @workshop.WorkshopName</p>
+            <p><b>Price</b>€   @workshop.Price</p>
+            <p><b>Location</b>  @workshop.Location</p>
+            <img src="@workshop.Image" width="80" height="100"/>
+            <form asp-page="/Workshop" method="get">
+                <input type="hidden" name="id" value="@workshop.WorkshopId" />
+                <button type="submit">Details</button>
+            </form>
+            @* <form id="workshopForm" asp-page="/Cart" method="get"> 
+                <input type="hidden" name="id" value="@workshop.WorkshopId" />
+                <input type="hidden" name="type" value="workshop" />
+                <button type="submit" class="add-workshop">Add to cart</button>
+            </form>*@
+
+            <form asp-page="/Cart" method="get">
+                <input type="hidden" name="id" value="@workshop.WorkshopId" />
+                <input type="hidden" name="page" value="Workshops">
+                <button type="submit">Add to cart</button>
+
+            </form>
+            
+
+        </div>
+
+    }
+
+</div>
+
+
+
+
+
+
+
+@* <ul>
+    @foreach (var emp in Model.workshop)
+    {
+        <li>
+            @emp.Id
+            @emp.Name
+            @emp.Price
+            @emp.Location
+            <img src="@emp.Image" />
+          @*   <a asp-page="/Employee" asp-route-id="@emp.Id">details</a> *@
+
+
+
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BusinessLayer</id>
+    <version>1.0.0</version>
+    <authors>BusinessLayer</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="ad0f6c1e01255b5d75d0379e47065e174219460a" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll" target="lib\net6.0\BusinessLayer.dll" />
+  </files>
+</package>

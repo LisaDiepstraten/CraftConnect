@@ -1,0 +1,82 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.SignupModel
+@{
+}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+
+
+<link rel="stylesheet" href="~/css/SignUpStyle.css" asp-append-version="true" />
+
+
+
+
+<form method="post" novalidate>
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Username" class="form-label">Username</label>
+        <span asp-validation-for="SignupDTO.Username" class="text-danger"></span>
+        <input asp-for="SignupDTO.Username" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Firstname" class="form-label">Firstname</label>
+        <span asp-validation-for="SignupDTO.Firstname" class="text-danger"></span>
+        <input asp-for="SignupDTO.Firstname" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Lastname" class="form-label">Lastname</label>
+        <span asp-validation-for="SignupDTO.Lastname" class="text-danger"></span>
+        <input asp-for="SignupDTO.Lastname" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.PhoneNumber" class="form-label">Phone number</label>
+        <span asp-validation-for="SignupDTO.PhoneNumber" class="text-danger"></span>
+        <input asp-for="SignupDTO.PhoneNumber" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Address" class="form-label">Address</label>
+        <span asp-validation-for="SignupDTO.Address" class="text-danger"></span>
+        <input asp-for="SignupDTO.Address" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Email" class="form-label">Email address</label>
+        <span asp-validation-for="SignupDTO.Email" class="text-danger"></span>
+        <input asp-for="SignupDTO.Email" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Password" class="form-label">Password</label>
+        <span asp-validation-for="SignupDTO.Password" class="text-danger"></span>
+        <input asp-for="SignupDTO.Password" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label asp-for="SignupDTO.Password2" class="form-label">Confirm Password</label>
+        <span asp-validation-for="SignupDTO.Password2" class="text-danger"></span>
+        <input asp-for="SignupDTO.Password2" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+</form>
+
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        @if (TempData["NotSuccessFullSignUp"] != null)
+        {
+            <text>
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: '@TempData["NotSuccessFullSignUp"]'
+                });
+            </text>
+        }
+            <partial name="_ValidationScriptsPartial" />
+    </script>
+}
+

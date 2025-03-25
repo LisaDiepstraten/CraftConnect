@@ -1,0 +1,32 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.ProductModel
+@{
+}
+<link rel="stylesheet" href="~/css/WorkshopStyle.css" asp-append-version="true" />
+
+
+
+    @if (Model.oneproduct is not null)
+    {
+        <br>
+        <img src="@Model.oneproduct.Image " width="170" height="200" />
+     
+        <p>@Model.oneproduct.ProductName</p>
+        <p>Type: @Model.oneproduct.TypeOfItem</p>
+        <p>Description: @Model.oneproduct.Description</p>
+        <p>Price: € @Model.oneproduct.Price</p>
+        <p>Amount in stock:  @Model.oneproduct.AmountInStock</p>
+   
+   
+    <br>
+        
+        <form asp-page="/Cart" method="get">
+            <input type="hidden" name="id" value="@Model.oneproduct.ProductID" />
+            <input type="hidden" name="page" value="Products">
+            <button type="submit">Add to cart</button>
+
+        </form>
+    }
+
+
+

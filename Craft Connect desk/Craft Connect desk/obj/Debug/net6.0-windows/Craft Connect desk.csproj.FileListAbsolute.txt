@@ -1,0 +1,19 @@
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\bin\Debug\net6.0-windows\Craft Connect desk.exe
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\bin\Debug\net6.0-windows\Craft Connect desk.deps.json
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\bin\Debug\net6.0-windows\Craft Connect desk.runtimeconfig.json
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\bin\Debug\net6.0-windows\Craft Connect desk.dll
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\bin\Debug\net6.0-windows\Craft Connect desk.pdb
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft_Connect_desk.AddWorkshop.resources
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft_Connect_desk.CraftConnectForm.resources
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft_Connect_desk.LogIn.resources
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft_Connect_desk.SignUp.resources
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.csproj.GenerateResource.cache
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.AssemblyInfoInputs.cache
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.AssemblyInfo.cs
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.csproj.CoreCompileInputs.cache
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.dll
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\refint\Craft Connect desk.dll
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.pdb
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\Craft Connect desk.genruntimeconfig.cache
+C:\sources\semester2\New folder\Craft Connect desk\Craft Connect desk\obj\Debug\net6.0-windows\ref\Craft Connect desk.dll

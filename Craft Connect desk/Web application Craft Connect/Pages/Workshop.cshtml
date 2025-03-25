@@ -1,0 +1,31 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.WorkshopModel
+@{
+}
+<link rel="stylesheet" href="~/css/WorkshopStyle.css" asp-append-version="true" />
+
+   
+  
+        @if(Model.oneworkshop is not null)
+        {
+            <br>
+            <img src="@Model.oneworkshop.Image" width="170" height="200" /><br>
+       
+            <p>@Model.oneworkshop.WorkshopName</p>
+             <p>Price: € @Model.oneworkshop.Price</p>
+            <p>Location: @Model.oneworkshop.Location</p>
+            <p>Description: @Model.oneworkshop.Description</p>
+            <p>Days available: @Model.oneworkshop.DaysAvailable</p>
+            <p>Amount of places: @Model.oneworkshop.AmountOfPlaces</p>
+            <p>Type: @Model.oneworkshop.TypeOfItem</p><br>
+
+           
+        <form asp-page="/Cart" method="get">
+            <input type="hidden" name="id" value="@Model.oneworkshop.WorkshopId" />
+            <input type="hidden" name="page" value="Workshops">
+            <button type="submit">Add to cart</button>
+
+        </form>
+        }
+
+

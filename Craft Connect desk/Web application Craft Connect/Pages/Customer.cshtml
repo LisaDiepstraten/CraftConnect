@@ -1,0 +1,10 @@
+﻿@page
+@model WebApplicationCraftConnect.Pages.CustomerModel
+@{
+}
+Customer
+@if (User != null && User.Identity != null)  // this just simple displays the name of the current user
+{
+    <div>@User.Identity.Name</div>
+}
+  

@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplicationCraftConnect
+build_property.RootNamespace = WebApplicationCraftConnect
+build_property.ProjectDir = C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/About us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQgdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZXBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Workshop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya3Nob3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Workshops.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya3Nob3BzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sources/semester2/Individual assignment/craft-connect-project/Craft Connect desk/Web application Craft Connect/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oi4pioc443

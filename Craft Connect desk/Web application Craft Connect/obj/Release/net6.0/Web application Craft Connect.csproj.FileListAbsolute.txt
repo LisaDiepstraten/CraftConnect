@@ -1,0 +1,38 @@
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\appsettings.Development.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\appsettings.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.staticwebassets.runtime.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.exe
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.deps.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.runtimeconfig.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\Web application Craft Connect.pdb
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.csproj.AssemblyReference.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.AssemblyInfoInputs.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.AssemblyInfo.cs
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.csproj.CoreCompileInputs.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.MvcApplicationPartsAssemblyInfo.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.RazorAssemblyInfo.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.RazorAssemblyInfo.cs
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets.build.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets.development.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets\msbuild.Web application Craft Connect.Microsoft.AspNetCore.StaticWebAssets.props
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets\msbuild.build.Web application Craft Connect.props
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web application Craft Connect.props
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Web application Craft Connect.props
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\staticwebassets.pack.json
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\scopedcss\bundle\Web application Craft Connect.styles.css
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\scopedcss\projectbundle\Web application Craft Connect.bundle.scp.css
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.csproj.CopyComplete
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\refint\Web application Craft Connect.dll
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.pdb
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\Web application Craft Connect.genruntimeconfig.cache
+C:\sources\semester2\Individual assignment\craft-connect-project\Craft Connect desk\Web application Craft Connect\obj\Release\net6.0\ref\Web application Craft Connect.dll
